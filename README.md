@@ -1,6 +1,6 @@
 ### Overview
 
-When running in jest environment receiving AbortController
+When running in jest environment receiving AbortController is not defined exception.
 
 ``` bash
 npm install
